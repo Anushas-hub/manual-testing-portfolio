@@ -22,7 +22,7 @@ API, performed using Postman as part of my Manual Testing Portfolio.
 - Structured, professional test documentation
 
 ## Live Postman Documentation
-View here: https://documenter.getpostman.com/view/57919369/2sBYB4KRbc
+View here: [View Here](https://documenter.getpostman.com/view/57919369/2sBYB4KRbc)
 
 ## How to Run This Collection
 1. Import `collection.json` into Postman
