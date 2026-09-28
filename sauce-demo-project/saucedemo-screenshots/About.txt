@@ -1,1 +1,3 @@
+This Folder saucedemo screenshots consists of the ss of all test cases execution mentioned in the test report.
 
+By - Anusha Yadav
