@@ -6,8 +6,7 @@ Manual functional QA case study on [Sauce Demo](https://www.saucedemo.com) (the 
 
 | File | Description |
 |---|---|
-| `Test-Plan.pdf` | Objective, scope, approach, environment, entry/exit criteria, coverage summary |
-| `Test-Cases-and-Bug-Reports.xlsx` | 28 test cases across 4 modules + 6 bug reports + auto-calculating summary dashboard |
+| `Test-Plan-Test-Cases-and-Bug-Reports.xlsx` | Objective, scope, approach, environment, entry/exit criteria, coverage summary28 test cases across 4 modules + 6 bug reports + auto-calculating summary dashboard |
 | `screenshots/` | Execution & defect evidence |
 
 ## Scope
